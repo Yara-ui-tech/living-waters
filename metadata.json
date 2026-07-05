@@ -1,0 +1,6 @@
+{
+  "name": "Living Waters Student Portal",
+  "description": "A minimalist student and staff portal for Living Waters Theological Seminary, featuring academic records, admission modules, billing, e-library, and virtual research assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
